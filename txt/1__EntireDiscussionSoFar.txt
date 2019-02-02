@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- comment - the XML in this document has been validated-->
+<facebook_post>
+<original_post>
+<original_poster>
+Madanlal Musuvathi
+</original_poster>
+<date>
+Posted on January 31, 2019 at 7:39 AM · 
+</date>
+<original_post_text>
+
+Honestly, I need help with English spellings. My six year old pointed out that "come" should be spelled phonetically as "cum" and the word "come" should logically be pronounced with a long form 'o' as in home, dome, phone. She pointed out a rule, which I was not aware of, that the silent 'e' at the end makes the intermediate vowel a long form (e.g. fate, pete, line, rule, etc). Is there a systematic way to teach English spellings to kids (just common words - not interested in Spelling Bee stuff) - like a set of rules and then a set of their exceptions? I personally was taught the suck-it-up-and-memorize method and would like to avoid it.
+
+</original_post_text>
+
+</original_post>
+
+<comments_on_original_post>
+
+<miscellaneous_comments>
+2525
+23 Comments
+Like
+Comment
+Comments
+Shree Lakshmanan
+Shree Lakshmanan There is Madan. Schools do a very good job of teaching it usually. Just that there is a whole bunch of exceptions, once you learn the rules, and such words are often taught as sight words, which are to be memorized.
+Hide or report this
+Like
+ · Reply · 1d · Edited
+Shree Lakshmanan
+Shree Lakshmanan replied
+ 
+·
+ 2 Replies
+Shanthi Mohan
+Shanthi Mohan Agree with Shree! Only that there a whole lot of exceptions!
+2
+Hide or report this
+Like
+ · Reply · 1d
+Orchideh Raisdanai
+Orchideh Raisdanai Very smart observation. There are exceptions to these rules that have no logical reason. Most come from colloquial pronunciation that overrides these rules.
+Hide or report this
+Like
+ · Reply · 1d
+Gwen Parker
+Gwen Parker Leo’s school has started using the Orton-Gillingham approach with all students. (Sometimes it’s suggested as an approach for kids with dyslexia, but I believe it was developed for all kinds of learners.) I find it helpful in answering those “why” questions.
+Hide or report this
+Like
+ · Reply · 1d
+Úlfar Erlingsson
+Úlfar Erlingsson Came here to laugh at the idea of rules and consistency in English spelling, but can see from the comments that there are some valiant efforts out there. Still wonder if the suck-it-up-and-memorize method isn't the most cost effective.
+1
+Hide or report this
+Like
+ · Reply · 1d
+Aditi Raman
+Aditi Raman Chitra Sundarraman- do you know of a ready reckoner for phonetic rules?
+Hide or report this
+Like
+ · Reply · 1d
+Rajanikanth Jayaseelan
+Rajanikanth Jayaseelan Maybe it is time to upgrade the script? Seriously.
+Hide or report this
+Like
+ · Reply · 1d
+Vijaya Obla
+Vijaya Obla Smart and observant girl. There are exceptions which in time one tends to forget.
+Hide or report this
+Like
+ · Reply · 1d
+John Erickson
+John Erickson I can't offer a solution but I can offer sympathy: I have the exact same problem. It's like my neural network is programmed but I have no idea what the edges, vertices, or weights are, so I am worthless when it comes to explaining. Fortunately my wife …See More
+1
+Hide or report this
+Like
+ · Reply · 1d
+Maria Garzaran
+Maria Garzaran The kids learn patterns such as cake, bike,....
+Take a look how the Montessori method teaches kids to read. It uses some of those phonetics. Of course, there are exceptions, but once they can read the basics they can learn the exceptions quite fast
+Hide or report this
+Like
+ · Reply · 1d
+Krishna Srinivasan
+Krishna Srinivasan Well, well, you are going to eventually run in to that with words and meaning too. While this might not yet be appropriate for A*, this makes a good point though:
+https://www.youtube.com/watch?v=RAGcDi0DRtU
+Hide or report this
+
+YOUTUBE.COM
+Ismo: Ass Is The Most Complicated Word In The English Language -…
+Like
+ · Reply · 1d
+Venkatesh-Prasad Ranganath
+Venkatesh-Prasad Ranganath My observation has been, when we have "...vowel consonant>e", we pronounce the vowel as its name. The i in "Pill" is pronounced as the i in "Igloo" but the i in "Pile" is pronounced as its name. Pant and Pane is another example. Now there are exce…See More
+Hide or report this
+Like
+ · Reply · 1d · Edited
+Andrew Begel
+Andrew Begel Blow her mind with this poem: https://www.cs.cmu.edu/~clamen/misc/humour/TheChaos.html
+Hide or report this
+CS.CMU.EDU
+The Chaos - by Dr. Geralrd Nolst Trenité
+The Chaos - by Dr. Geralrd Nolst Trenité
+Like
+ · Reply · 23h
+
+<specially_noted_comments note="comment_commented_on" id="1">
+TJ Espejos
+TJ Espejos Yes, there are rules. The ending e-rule is a strong one. Fat vs fate, met vs mete, kit vs kite, not vs note, cut vs cute. But the reason for the large number of exceptions is that English borrows words from a large number of different languages where…See More
+Hide or report this
+Like
+ · Reply · 8h
+
+<GitHubbers_comments id="1">
+Anand Manikutty
+Anand Manikutty English branched off from German a long while ago. This particular thing (vowel elongation) appears to date back to Middle English.
+Edit or delete this
+Like
+ · Reply · 28m · Edited
+Anand Manikutty
+Anand Manikutty Let me think about this. Will update my GitHub, if this seems important - more to come, after further reflection and consideration. :-) Have a terrific day!
+Edit or delete this
+Like
+ · Reply · 27m · Edited
+Anand Manikutty
+Write a reply...
+
+</GitHubbers_comments>
+
+</specially_noted_comments>
+
+<GitHubbers_comments id="2">
+Anand Manikutty
+Anand Manikutty A few comments: (1) English is not a phonetic language. (But Spanish is.That's why John Erickson finds it easier to spell in Spanish.) (2) There is no way to cone up with a set of rules for English, because English borrows so much from so many languages (and, actually, also for other reasons). (3) Even the 'i before e' rule has exceptions. (4) Hindi seems to be much better than English in almost every way.
+Edit or delete this
+Like
+ · Reply · 7h
+
+</GitHubbers_comments>
+
+<GitHubbers_comments id="3">
+
+Anand Manikutty
+Anand Manikutty I have created a GitHub repository for all my Facebook posts/Facebook commenting. It's still private. I will make it public when I get a chance/get the time.
+Edit or delete this
+Like
+ · Reply · 7h · Edited
+</GitHubbers_comments>
+
+<specially_noted_comments note="comment_commented_on" id="A1">
+Comment by : Sridhar Nanjundeswaran
+
+
+
+Sridhar Nanjundeswaran Come is an interesting one. The way the M's are taught at school is the e asks the vowel to say its name (not sound)
+Hide or report this
+Like
+ · Reply · 4h
+Anand Manikutty
+
+<GitHubbers_comments id="4">
+
+Anand Manikutty That seems to be an effort to help kids remember (that is, what you are talking about is really a mnemonic device)-- rather than something based actually in linguistics. 
+A couple of comments: (1) Pronunciation in the English language cannot be deter…See More
+Edit or delete this
+Like
+ · Reply · 31m · Edited
+Anand Manikutty
+Anand Manikutty "Some" would be a better example. More PG-13, at least. :-)
+
+</GitHubbers_comments>
+
+</specially_noted_comments>
+
+</miscellaneous_comments>
+
+</comments_on_original_post>
+
+</facebook_post>
